@@ -1,3 +1,3 @@
 # Python
 
-This is my repository for Javascript projects.
+This is my repository for Python projects.
